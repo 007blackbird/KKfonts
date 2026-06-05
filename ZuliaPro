@@ -1,6 +1,0 @@
-@font-face {
-    font-family: 'ZuliaPro';
-    src: url('https://cdn.jsdelivr.net/gh/007blackbird/KKfonts@main/ZuliaPro.otf') format('opentype');
-    font-weight: normal;
-    font-style: normal;
-}
