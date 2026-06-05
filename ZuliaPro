@@ -1,0 +1,7 @@
+@font-face {font-family:'ZuliaPro';src:url(https://dl.dropbox.com/s/g1slombhfigu8pi/ZuliaPro.otf) format('opentype');}
+@font-face {
+    font-family: 'ZuliaPro';
+    src: url('https://tudominio.com/fuentes/mifuente.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
